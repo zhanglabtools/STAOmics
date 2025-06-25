@@ -72,7 +72,7 @@ Step-by-step tutorials are included in the `Tutorial` folder to show how to use 
 
 ## Data
 
-The GTF file used for prior feature graph construction can be downloaded from [GENCODE](ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/gencode.vM25.chr_patch_hapl_scaff.annotation.gtf.gz) or [here](https://drive.google.com/file/d/1sHA15AAuwieKfukjuXcTKe4UrKVunRn3/view?usp=sharing). Datasets for Tutorial can be found [here]().
+The GTF file used for prior feature graph construction can be downloaded from [GENCODE](ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/gencode.vM25.chr_patch_hapl_scaff.annotation.gtf.gz) or [here](https://drive.google.com/file/d/1sHA15AAuwieKfukjuXcTKe4UrKVunRn3/view?usp=sharing).
 
 
 ## Support
