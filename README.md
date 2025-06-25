@@ -1,6 +1,6 @@
 # STAOmics
 
-![image-20250623165400232](C:\Users\zhoux\AppData\Roaming\Typora\typora-user-images\image-20250623165400232.png)
+![](https://github.com/zhanglabtools/STAOmics/blob/main/STAOmics_overview.png)
 
 
 ## Overview
