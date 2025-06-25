@@ -70,6 +70,10 @@ Step-by-step tutorials are included in the `Tutorial` folder to show how to use 
 - Tutorial 5: Integration of spatial transcriptomics and proteomics human lymph node slices
 
 
+## Data
+
+The GTF file used for prior feature graph construction can be downloaded from [GENCODE](ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/gencode.vM25.chr_patch_hapl_scaff.annotation.gtf.gz) or [here](https://drive.google.com/file/d/1sHA15AAuwieKfukjuXcTKe4UrKVunRn3/view?usp=sharing). Datasets for Tutorial can be found [here]().
+
 
 ## Support
 
